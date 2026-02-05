@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Backend and python Developement, Full Stack Developement along with FastApi Integration, i am looking to collaborate with like minded people and create something awesome and useful for society at the same time, one creaxy fun fact about me is i like to get things done way earlier than expected
-
+An IT Undergraduate and System Architect in the making, focused on engineering scalable, high-performance backends using Django and Python, complemented by responsive ReactJS frontends. With a 9.4 GPA and experience ranging from building real-time gamified coding platforms to optimizing B2B SaaS portals, I specialize in transforming complex logic into seamless user experiences. I thrive at the intersection of Distributed Systems and Full-Stack development, currently expanding my toolkit with Golang and C++ to build the next generation of high-concurrency applications. Always optimizing, always scaling.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piunam_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/poonam-kr-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poonamkr.singh11@gmail.com) 
